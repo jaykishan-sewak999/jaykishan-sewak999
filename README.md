@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaykishan</h1>
-<h3 align="center">A passionate Mobile App developer from Gujrat,India. Thank you for taking time ti view my profile.</h3>
+<h3 align="center">A passionate Mobile App developer from Gujrat,India. Thank you for taking time to view my profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykishan-sewak999&label=Profile%20views&color=0e75b6&style=flat" alt="jaykishan-sewak999" /> </p>
 
